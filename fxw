@@ -35,9 +35,11 @@ DOMAIN-SUFFIX,carlos.trade
 DOMAIN-SUFFIX,emby.pilipiliultra.top
 DOMAIN-SUFFIX,emby.pilipiliultra.com
 DOMAIN-SUFFIX,stream_pilipili.misakaf.org
+IP-CIDR6,2602:294:0:D4F::999/128
 #纸片人
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,gd.9521732.xyz
+IP-CIDR6,2A0A:4CC0:1:11C2:145B:39FF:FE00:BAAC/128
 #Mf
 DOMAIN-SUFFIX,emby.misakaf.org
 #Dolphin
@@ -64,3 +66,6 @@ DOMAIN-SUFFIX,teachers.sportemby.com
 DOMAIN-SUFFIX,emby.cbcb.lol
 #江湖
 DOMAIN-SUFFIX,film.reddust.link
+#港澳台直播
+DOMAIN-SUFFIX,stream-link.online
+DOMAIN-SUFFIX,stream-link.org
