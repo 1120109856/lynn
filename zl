@@ -1,6 +1,6 @@
 #PandaTv
-DOMAIN-SUFFIX,emby.at
-DOMAIN-SUFFIX,pdatv.cc
+#DOMAIN-SUFFIX,emby.at
+#DOMAIN-SUFFIX,pdatv.cc
 #Micu
 DOMAIN-SUFFIX,tv.micu.hk
 DOMAIN-SUFFIX,v0.micu.hk
